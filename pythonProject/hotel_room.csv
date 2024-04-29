@@ -1,0 +1,13 @@
+Room ID,Room Type,Max People,Price
+1,Standard-Single,1,30
+2,Standard-Single,1,30
+3,Standard-Double,2,35
+4,Standard-Double,2,35
+5,Standard-Double,2,35
+6,Standard-Double,2,35
+7,Deluxe-Double,2,50
+8,Deluxe-Double,2,50
+9,Deluxe-Double,2,50
+10,Family,4,60
+11,Family,4,60
+12,Suit,4,75
